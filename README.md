@@ -8,11 +8,11 @@ You will encounter 2 types of clouds: grey and white. White clouds are the happy
 
 ## Screenshots
 
-![StartMenu Screenshot](https://raw.github.com/kwisek/HappyLittleClouds/Screenshots/OnGameStart.png)
+![StartMenu Screenshot](https://github.com/kwisek/HappyLittleClouds/blob/main/Screenshots/OnGameStart.png)
 
-![Gameplay Screenshot](https://raw.github.com/kwisek/HappyLittleClouds/Screenshots/Gameplay.png)
+![Gameplay Screenshot](https://github.com/kwisek/HappyLittleClouds/blob/main/Screenshots/Gameplay.png)
 
-![EndMenu Screenshot](https://raw.github.com/kwisek/HappyLittleClouds/Screenshots/OnGameOver.png)
+![EndMenu Screenshot](https://github.com/kwisek/HappyLittleClouds/blob/main/Screenshots/OnGameOver.png)
 
 ## Further development ideas
 
